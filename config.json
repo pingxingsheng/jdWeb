@@ -1,0 +1,9 @@
+{
+    "web_port": "88",
+    "hostname": "http://192.168.1.219:8888/",
+    "client_id": "XN_sDezXc-y7",
+    "client_secret": "",
+    "disabled": false,
+    "carmi": "",
+    "announcement": "<p><span style=\"font-size: 12pt;\"><span style=\"color: red;\">为了你的账户安全，请务必关闭免密支付！！！</span></span></p>"
+}
