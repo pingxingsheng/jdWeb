@@ -1,5 +1,5 @@
 {
-    "web_port": "88",
+    "web_port": "3000",
     "hostname": "http://192.168.1.219:8888/",
     "client_id": "XN_sDezXc-y7",
     "client_secret": "",
